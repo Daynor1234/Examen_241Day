@@ -1,0 +1,19 @@
+c:\users\reys\documents\visual studio 2012\Projects\DetectarBordes\DetectarBordes\obj\Debug\DetectarBordes.AppDetecBord.resources
+c:\users\reys\documents\visual studio 2012\Projects\DetectarBordes\DetectarBordes\obj\Debug\DetectarBordes.Properties.Resources.resources
+c:\users\reys\documents\visual studio 2012\Projects\DetectarBordes\DetectarBordes\obj\Debug\DetectarBordes.csproj.GenerateResource.Cache
+c:\users\reys\documents\visual studio 2012\Projects\DetectarBordes\DetectarBordes\bin\Debug\DetectarBordes.exe.config
+c:\users\reys\documents\visual studio 2012\Projects\DetectarBordes\DetectarBordes\bin\Debug\DetectarBordes.exe
+c:\users\reys\documents\visual studio 2012\Projects\DetectarBordes\DetectarBordes\bin\Debug\DetectarBordes.pdb
+c:\users\reys\documents\visual studio 2012\Projects\DetectarBordes\DetectarBordes\obj\Debug\DetectarBordes.exe
+c:\users\reys\documents\visual studio 2012\Projects\DetectarBordes\DetectarBordes\obj\Debug\DetectarBordes.pdb
+c:\users\reys\documents\visual studio 2012\Projects\DetectarBordes\DetectarBordes\obj\Debug\DetectarBordes.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\DAT-241\Primer_Parcial_PDP-main\9\DetectarBordes\DetectarBordes\bin\Debug\DetectarBordes.exe.config
+C:\Users\Usuario\Desktop\DAT-241\Primer_Parcial_PDP-main\9\DetectarBordes\DetectarBordes\bin\Debug\DetectarBordes.exe
+C:\Users\Usuario\Desktop\DAT-241\Primer_Parcial_PDP-main\9\DetectarBordes\DetectarBordes\bin\Debug\DetectarBordes.pdb
+C:\Users\Usuario\Desktop\DAT-241\Primer_Parcial_PDP-main\9\DetectarBordes\DetectarBordes\obj\Debug\DetectarBordes.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\DAT-241\Primer_Parcial_PDP-main\9\DetectarBordes\DetectarBordes\obj\Debug\DetectarBordes.AppDetecBord.resources
+C:\Users\Usuario\Desktop\DAT-241\Primer_Parcial_PDP-main\9\DetectarBordes\DetectarBordes\obj\Debug\DetectarBordes.Properties.Resources.resources
+C:\Users\Usuario\Desktop\DAT-241\Primer_Parcial_PDP-main\9\DetectarBordes\DetectarBordes\obj\Debug\DetectarBordes.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\DAT-241\Primer_Parcial_PDP-main\9\DetectarBordes\DetectarBordes\obj\Debug\DetectarBordes.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\DAT-241\Primer_Parcial_PDP-main\9\DetectarBordes\DetectarBordes\obj\Debug\DetectarBordes.exe
+C:\Users\Usuario\Desktop\DAT-241\Primer_Parcial_PDP-main\9\DetectarBordes\DetectarBordes\obj\Debug\DetectarBordes.pdb
