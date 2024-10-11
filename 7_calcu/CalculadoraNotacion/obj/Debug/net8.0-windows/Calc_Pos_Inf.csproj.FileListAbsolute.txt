@@ -1,0 +1,17 @@
+C:\Users\Usuario\Desktop\DAT-241\miexamen\7_calcu\CalculadoraNotacion\bin\Debug\net8.0-windows\Calc_Pos_Inf.exe
+C:\Users\Usuario\Desktop\DAT-241\miexamen\7_calcu\CalculadoraNotacion\bin\Debug\net8.0-windows\Calc_Pos_Inf.deps.json
+C:\Users\Usuario\Desktop\DAT-241\miexamen\7_calcu\CalculadoraNotacion\bin\Debug\net8.0-windows\Calc_Pos_Inf.runtimeconfig.json
+C:\Users\Usuario\Desktop\DAT-241\miexamen\7_calcu\CalculadoraNotacion\bin\Debug\net8.0-windows\Calc_Pos_Inf.dll
+C:\Users\Usuario\Desktop\DAT-241\miexamen\7_calcu\CalculadoraNotacion\bin\Debug\net8.0-windows\Calc_Pos_Inf.pdb
+C:\Users\Usuario\Desktop\DAT-241\miexamen\7_calcu\CalculadoraNotacion\obj\Debug\net8.0-windows\CalculadoraNotacion.Form1.resources
+C:\Users\Usuario\Desktop\DAT-241\miexamen\7_calcu\CalculadoraNotacion\obj\Debug\net8.0-windows\Calc_Pos_Inf.Properties.Resources.resources
+C:\Users\Usuario\Desktop\DAT-241\miexamen\7_calcu\CalculadoraNotacion\obj\Debug\net8.0-windows\Calc_Pos_Inf.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\DAT-241\miexamen\7_calcu\CalculadoraNotacion\obj\Debug\net8.0-windows\Calc_Pos_Inf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\DAT-241\miexamen\7_calcu\CalculadoraNotacion\obj\Debug\net8.0-windows\Calc_Pos_Inf.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\DAT-241\miexamen\7_calcu\CalculadoraNotacion\obj\Debug\net8.0-windows\Calc_Pos_Inf.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\DAT-241\miexamen\7_calcu\CalculadoraNotacion\obj\Debug\net8.0-windows\Calc_Pos_Inf.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\DAT-241\miexamen\7_calcu\CalculadoraNotacion\obj\Debug\net8.0-windows\Calc_Pos_Inf.dll
+C:\Users\Usuario\Desktop\DAT-241\miexamen\7_calcu\CalculadoraNotacion\obj\Debug\net8.0-windows\refint\Calc_Pos_Inf.dll
+C:\Users\Usuario\Desktop\DAT-241\miexamen\7_calcu\CalculadoraNotacion\obj\Debug\net8.0-windows\Calc_Pos_Inf.pdb
+C:\Users\Usuario\Desktop\DAT-241\miexamen\7_calcu\CalculadoraNotacion\obj\Debug\net8.0-windows\Calc_Pos_Inf.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\DAT-241\miexamen\7_calcu\CalculadoraNotacion\obj\Debug\net8.0-windows\ref\Calc_Pos_Inf.dll
